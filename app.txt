@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+maps
+tuenti
+=======
+Instagram
+Youtube
+facebook
+waze
+candy crush
+>>>>>>> dev
